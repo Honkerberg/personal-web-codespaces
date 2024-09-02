@@ -1,7 +1,7 @@
 {
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Personal site WIP",
   "source": "src/index.html",
   "homepage": "https://honkerberg.github.io/personal-web-codespaces",
   "scripts": {
